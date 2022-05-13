@@ -1,0 +1,4 @@
+geocoder==1.38.1
+PyQt5==5.15.6
+python_docx==0.8.11
+XlsxWriter==3.0.3

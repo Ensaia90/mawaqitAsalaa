@@ -1,0 +1,19 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="print.png">resources/images/print.png</file>
+    <file alias="preview.png">resources/images/preview.png</file>
+    <file alias="pdf.png">resources/images/pdf.png</file>
+    <file alias="excel.png">resources/images/excel.png</file>
+    <file alias="logout.png">resources/images/logout.png</file>
+    <file alias="geolocation.png">resources/images/geolocation.png</file>
+    <file alias="word.png">resources/images/word.png</file>
+    <file alias="success.png">resources/images/success.png</file>
+    <file alias="warning.png">resources/images/warning.png</file>
+    <file alias="danger.png">resources/images/danger.png</file>
+    <file alias="question.png">resources/images/question.png</file>
+    <file alias="information.png">resources/images/information.png</file>
+    <file alias="mawaqit-alsalaa.png">resources/images/mawaqit-alsalaa.png</file>
+    <!-- ico files  -->
+    <file alias="mawaqit-alsalaa.ico">resources/icons/mawaqit-alsalaa.ico</file>
+</qresource>
+</RCC>

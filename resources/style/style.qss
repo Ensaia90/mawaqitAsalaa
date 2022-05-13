@@ -1,0 +1,57 @@
+QGroupBox {
+    border: 1px solid #999;
+    border-radius: 0px;
+    margin-top: 1ex; /* leave space at the top for the title */
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center; /* position at the top center */
+    padding: 0 3px;
+    color:#000;
+}
+
+QRadioButton::indicator {
+    width: 13px;
+    height: 13px;
+}
+
+/********
+QMainWindow{
+background-color:#f5f5f5;
+}
+QLineEdit,QComboBox{
+     border: 1px solid rgba(0, 0, 0, 0.16);
+    height: 30px;
+    padding: 5px 10px 5px 5px;
+    font-size: 15px;
+    width: 100px;
+    border-radius: 1px;
+}
+
+QPushButton{
+vertical-align: middle;
+margin:0;
+padding:10px 15px;
+line-height:100%;
+border-radius:5px;
+cursor: pointer;
+width:auto;
+overflow:visible;
+font-weight:normal;
+text-shadow:0 1px 0 #fff;
+color:#666;
+text-decoration:none;
+vertical-align: middle;
+box-sizing: border-box;
+zoom:1;
+border:1px solid #ccc;
+}
+
+QGroupBox{
+border:1px solid #999;
+padding:15px;
+}
+
+background-color:#555;\nfont-size:14px;\nfont-weight:normal;
+******/
