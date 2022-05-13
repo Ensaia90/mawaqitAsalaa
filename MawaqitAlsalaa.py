@@ -10,11 +10,6 @@ import json
 import requests
 from AboutDialog import AboutDialog
 
-"""
-http://api.aladhan.com/v1/calendar?latitude=32.8874&longitude=13.1873&method=5&month=5&year=2022&annual=false&tune=5,5,5,5,5,4,4,4,4
- """
-
-
 class MawaqitAlsalaa(QMainWindow):
     def __init__(self, *args, **kwargs):
         super(QMainWindow, self).__init__(*args, **kwargs)
